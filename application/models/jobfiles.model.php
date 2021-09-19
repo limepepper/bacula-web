@@ -8,7 +8,8 @@
  * @copyright 2018-2021 Gabriele Orlando
  */
 
-class JobFiles_Model extends CModel {
+class JobFiles_Model extends CModel
+{
 
   protected $dbVersionId;
 
